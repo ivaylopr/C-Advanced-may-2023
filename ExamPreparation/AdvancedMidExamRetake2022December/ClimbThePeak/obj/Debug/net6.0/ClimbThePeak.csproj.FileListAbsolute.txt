@@ -1,0 +1,15 @@
+C:\Users\PR1ME\source\Advanced\AdvancedMidExamRetake2022December\ClimbThePeak\bin\Debug\net6.0\ClimbThePeak.exe
+C:\Users\PR1ME\source\Advanced\AdvancedMidExamRetake2022December\ClimbThePeak\bin\Debug\net6.0\ClimbThePeak.deps.json
+C:\Users\PR1ME\source\Advanced\AdvancedMidExamRetake2022December\ClimbThePeak\bin\Debug\net6.0\ClimbThePeak.runtimeconfig.json
+C:\Users\PR1ME\source\Advanced\AdvancedMidExamRetake2022December\ClimbThePeak\bin\Debug\net6.0\ClimbThePeak.dll
+C:\Users\PR1ME\source\Advanced\AdvancedMidExamRetake2022December\ClimbThePeak\bin\Debug\net6.0\ClimbThePeak.pdb
+C:\Users\PR1ME\source\Advanced\AdvancedMidExamRetake2022December\ClimbThePeak\obj\Debug\net6.0\ClimbThePeak.csproj.AssemblyReference.cache
+C:\Users\PR1ME\source\Advanced\AdvancedMidExamRetake2022December\ClimbThePeak\obj\Debug\net6.0\ClimbThePeak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PR1ME\source\Advanced\AdvancedMidExamRetake2022December\ClimbThePeak\obj\Debug\net6.0\ClimbThePeak.AssemblyInfoInputs.cache
+C:\Users\PR1ME\source\Advanced\AdvancedMidExamRetake2022December\ClimbThePeak\obj\Debug\net6.0\ClimbThePeak.AssemblyInfo.cs
+C:\Users\PR1ME\source\Advanced\AdvancedMidExamRetake2022December\ClimbThePeak\obj\Debug\net6.0\ClimbThePeak.csproj.CoreCompileInputs.cache
+C:\Users\PR1ME\source\Advanced\AdvancedMidExamRetake2022December\ClimbThePeak\obj\Debug\net6.0\ClimbThePeak.dll
+C:\Users\PR1ME\source\Advanced\AdvancedMidExamRetake2022December\ClimbThePeak\obj\Debug\net6.0\refint\ClimbThePeak.dll
+C:\Users\PR1ME\source\Advanced\AdvancedMidExamRetake2022December\ClimbThePeak\obj\Debug\net6.0\ClimbThePeak.pdb
+C:\Users\PR1ME\source\Advanced\AdvancedMidExamRetake2022December\ClimbThePeak\obj\Debug\net6.0\ClimbThePeak.genruntimeconfig.cache
+C:\Users\PR1ME\source\Advanced\AdvancedMidExamRetake2022December\ClimbThePeak\obj\Debug\net6.0\ref\ClimbThePeak.dll
