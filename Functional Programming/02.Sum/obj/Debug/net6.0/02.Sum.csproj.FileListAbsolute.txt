@@ -1,0 +1,15 @@
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\02.Sum\bin\Debug\net6.0\02.Sum.exe
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\02.Sum\bin\Debug\net6.0\02.Sum.deps.json
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\02.Sum\bin\Debug\net6.0\02.Sum.runtimeconfig.json
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\02.Sum\bin\Debug\net6.0\02.Sum.dll
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\02.Sum\bin\Debug\net6.0\02.Sum.pdb
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\02.Sum\obj\Debug\net6.0\02.Sum.csproj.AssemblyReference.cache
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\02.Sum\obj\Debug\net6.0\02.Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\02.Sum\obj\Debug\net6.0\02.Sum.AssemblyInfoInputs.cache
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\02.Sum\obj\Debug\net6.0\02.Sum.AssemblyInfo.cs
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\02.Sum\obj\Debug\net6.0\02.Sum.csproj.CoreCompileInputs.cache
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\02.Sum\obj\Debug\net6.0\02.Sum.dll
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\02.Sum\obj\Debug\net6.0\refint\02.Sum.dll
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\02.Sum\obj\Debug\net6.0\02.Sum.pdb
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\02.Sum\obj\Debug\net6.0\02.Sum.genruntimeconfig.cache
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\02.Sum\obj\Debug\net6.0\ref\02.Sum.dll

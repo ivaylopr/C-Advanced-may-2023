@@ -1,0 +1,15 @@
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\04.VAT\bin\Debug\net6.0\04.VAT.exe
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\04.VAT\bin\Debug\net6.0\04.VAT.deps.json
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\04.VAT\bin\Debug\net6.0\04.VAT.runtimeconfig.json
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\04.VAT\bin\Debug\net6.0\04.VAT.dll
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\04.VAT\bin\Debug\net6.0\04.VAT.pdb
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\04.VAT\obj\Debug\net6.0\04.VAT.csproj.AssemblyReference.cache
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\04.VAT\obj\Debug\net6.0\04.VAT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\04.VAT\obj\Debug\net6.0\04.VAT.AssemblyInfoInputs.cache
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\04.VAT\obj\Debug\net6.0\04.VAT.AssemblyInfo.cs
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\04.VAT\obj\Debug\net6.0\04.VAT.csproj.CoreCompileInputs.cache
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\04.VAT\obj\Debug\net6.0\04.VAT.dll
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\04.VAT\obj\Debug\net6.0\refint\04.VAT.dll
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\04.VAT\obj\Debug\net6.0\04.VAT.pdb
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\04.VAT\obj\Debug\net6.0\04.VAT.genruntimeconfig.cache
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\04.VAT\obj\Debug\net6.0\ref\04.VAT.dll

@@ -1,0 +1,15 @@
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\01ExPrintArrayByFunc\bin\Debug\net6.0\01ExPrintArrayByFunc.exe
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\01ExPrintArrayByFunc\bin\Debug\net6.0\01ExPrintArrayByFunc.deps.json
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\01ExPrintArrayByFunc\bin\Debug\net6.0\01ExPrintArrayByFunc.runtimeconfig.json
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\01ExPrintArrayByFunc\bin\Debug\net6.0\01ExPrintArrayByFunc.dll
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\01ExPrintArrayByFunc\bin\Debug\net6.0\01ExPrintArrayByFunc.pdb
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\01ExPrintArrayByFunc\obj\Debug\net6.0\01ExPrintArrayByFunc.csproj.AssemblyReference.cache
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\01ExPrintArrayByFunc\obj\Debug\net6.0\01ExPrintArrayByFunc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\01ExPrintArrayByFunc\obj\Debug\net6.0\01ExPrintArrayByFunc.AssemblyInfoInputs.cache
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\01ExPrintArrayByFunc\obj\Debug\net6.0\01ExPrintArrayByFunc.AssemblyInfo.cs
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\01ExPrintArrayByFunc\obj\Debug\net6.0\01ExPrintArrayByFunc.csproj.CoreCompileInputs.cache
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\01ExPrintArrayByFunc\obj\Debug\net6.0\01ExPrintArrayByFunc.dll
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\01ExPrintArrayByFunc\obj\Debug\net6.0\refint\01ExPrintArrayByFunc.dll
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\01ExPrintArrayByFunc\obj\Debug\net6.0\01ExPrintArrayByFunc.pdb
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\01ExPrintArrayByFunc\obj\Debug\net6.0\01ExPrintArrayByFunc.genruntimeconfig.cache
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\01ExPrintArrayByFunc\obj\Debug\net6.0\ref\01ExPrintArrayByFunc.dll

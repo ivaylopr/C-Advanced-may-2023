@@ -1,0 +1,15 @@
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\03.ExCustomMinFunc\bin\Debug\net6.0\03.ExCustomMinFunc.exe
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\03.ExCustomMinFunc\bin\Debug\net6.0\03.ExCustomMinFunc.deps.json
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\03.ExCustomMinFunc\bin\Debug\net6.0\03.ExCustomMinFunc.runtimeconfig.json
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\03.ExCustomMinFunc\bin\Debug\net6.0\03.ExCustomMinFunc.dll
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\03.ExCustomMinFunc\bin\Debug\net6.0\03.ExCustomMinFunc.pdb
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\03.ExCustomMinFunc\obj\Debug\net6.0\03.ExCustomMinFunc.csproj.AssemblyReference.cache
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\03.ExCustomMinFunc\obj\Debug\net6.0\03.ExCustomMinFunc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\03.ExCustomMinFunc\obj\Debug\net6.0\03.ExCustomMinFunc.AssemblyInfoInputs.cache
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\03.ExCustomMinFunc\obj\Debug\net6.0\03.ExCustomMinFunc.AssemblyInfo.cs
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\03.ExCustomMinFunc\obj\Debug\net6.0\03.ExCustomMinFunc.csproj.CoreCompileInputs.cache
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\03.ExCustomMinFunc\obj\Debug\net6.0\03.ExCustomMinFunc.dll
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\03.ExCustomMinFunc\obj\Debug\net6.0\refint\03.ExCustomMinFunc.dll
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\03.ExCustomMinFunc\obj\Debug\net6.0\03.ExCustomMinFunc.pdb
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\03.ExCustomMinFunc\obj\Debug\net6.0\03.ExCustomMinFunc.genruntimeconfig.cache
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\03.ExCustomMinFunc\obj\Debug\net6.0\ref\03.ExCustomMinFunc.dll

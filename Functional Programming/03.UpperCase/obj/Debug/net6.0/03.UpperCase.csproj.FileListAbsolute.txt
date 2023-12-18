@@ -1,0 +1,15 @@
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\03.UpperCase\bin\Debug\net6.0\03.UpperCase.exe
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\03.UpperCase\bin\Debug\net6.0\03.UpperCase.deps.json
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\03.UpperCase\bin\Debug\net6.0\03.UpperCase.runtimeconfig.json
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\03.UpperCase\bin\Debug\net6.0\03.UpperCase.dll
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\03.UpperCase\bin\Debug\net6.0\03.UpperCase.pdb
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\03.UpperCase\obj\Debug\net6.0\03.UpperCase.csproj.AssemblyReference.cache
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\03.UpperCase\obj\Debug\net6.0\03.UpperCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\03.UpperCase\obj\Debug\net6.0\03.UpperCase.AssemblyInfoInputs.cache
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\03.UpperCase\obj\Debug\net6.0\03.UpperCase.AssemblyInfo.cs
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\03.UpperCase\obj\Debug\net6.0\03.UpperCase.csproj.CoreCompileInputs.cache
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\03.UpperCase\obj\Debug\net6.0\03.UpperCase.dll
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\03.UpperCase\obj\Debug\net6.0\refint\03.UpperCase.dll
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\03.UpperCase\obj\Debug\net6.0\03.UpperCase.pdb
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\03.UpperCase\obj\Debug\net6.0\03.UpperCase.genruntimeconfig.cache
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\03.UpperCase\obj\Debug\net6.0\ref\03.UpperCase.dll

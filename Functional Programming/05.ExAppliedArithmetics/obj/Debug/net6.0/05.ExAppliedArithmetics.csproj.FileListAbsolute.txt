@@ -1,0 +1,15 @@
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\05.ExAppliedArithmetics\bin\Debug\net6.0\05.ExAppliedArithmetics.exe
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\05.ExAppliedArithmetics\bin\Debug\net6.0\05.ExAppliedArithmetics.deps.json
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\05.ExAppliedArithmetics\bin\Debug\net6.0\05.ExAppliedArithmetics.runtimeconfig.json
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\05.ExAppliedArithmetics\bin\Debug\net6.0\05.ExAppliedArithmetics.dll
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\05.ExAppliedArithmetics\bin\Debug\net6.0\05.ExAppliedArithmetics.pdb
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\05.ExAppliedArithmetics\obj\Debug\net6.0\05.ExAppliedArithmetics.csproj.AssemblyReference.cache
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\05.ExAppliedArithmetics\obj\Debug\net6.0\05.ExAppliedArithmetics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\05.ExAppliedArithmetics\obj\Debug\net6.0\05.ExAppliedArithmetics.AssemblyInfoInputs.cache
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\05.ExAppliedArithmetics\obj\Debug\net6.0\05.ExAppliedArithmetics.AssemblyInfo.cs
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\05.ExAppliedArithmetics\obj\Debug\net6.0\05.ExAppliedArithmetics.csproj.CoreCompileInputs.cache
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\05.ExAppliedArithmetics\obj\Debug\net6.0\05.ExAppliedArithmetics.dll
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\05.ExAppliedArithmetics\obj\Debug\net6.0\refint\05.ExAppliedArithmetics.dll
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\05.ExAppliedArithmetics\obj\Debug\net6.0\05.ExAppliedArithmetics.pdb
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\05.ExAppliedArithmetics\obj\Debug\net6.0\05.ExAppliedArithmetics.genruntimeconfig.cache
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\05.ExAppliedArithmetics\obj\Debug\net6.0\ref\05.ExAppliedArithmetics.dll

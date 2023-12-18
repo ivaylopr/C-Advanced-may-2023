@@ -1,0 +1,15 @@
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\06.ReverseAndDivide\bin\Debug\net6.0\06.ReverseAndDivide.exe
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\06.ReverseAndDivide\bin\Debug\net6.0\06.ReverseAndDivide.deps.json
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\06.ReverseAndDivide\bin\Debug\net6.0\06.ReverseAndDivide.runtimeconfig.json
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\06.ReverseAndDivide\bin\Debug\net6.0\06.ReverseAndDivide.dll
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\06.ReverseAndDivide\bin\Debug\net6.0\06.ReverseAndDivide.pdb
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\06.ReverseAndDivide\obj\Debug\net6.0\06.ReverseAndDivide.csproj.AssemblyReference.cache
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\06.ReverseAndDivide\obj\Debug\net6.0\06.ReverseAndDivide.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\06.ReverseAndDivide\obj\Debug\net6.0\06.ReverseAndDivide.AssemblyInfoInputs.cache
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\06.ReverseAndDivide\obj\Debug\net6.0\06.ReverseAndDivide.AssemblyInfo.cs
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\06.ReverseAndDivide\obj\Debug\net6.0\06.ReverseAndDivide.csproj.CoreCompileInputs.cache
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\06.ReverseAndDivide\obj\Debug\net6.0\06.ReverseAndDivide.dll
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\06.ReverseAndDivide\obj\Debug\net6.0\refint\06.ReverseAndDivide.dll
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\06.ReverseAndDivide\obj\Debug\net6.0\06.ReverseAndDivide.pdb
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\06.ReverseAndDivide\obj\Debug\net6.0\06.ReverseAndDivide.genruntimeconfig.cache
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\06.ReverseAndDivide\obj\Debug\net6.0\ref\06.ReverseAndDivide.dll

@@ -1,0 +1,15 @@
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\01.Calculator\bin\Debug\net6.0\01.Calculator.exe
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\01.Calculator\bin\Debug\net6.0\01.Calculator.deps.json
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\01.Calculator\bin\Debug\net6.0\01.Calculator.runtimeconfig.json
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\01.Calculator\bin\Debug\net6.0\01.Calculator.dll
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\01.Calculator\bin\Debug\net6.0\01.Calculator.pdb
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\01.Calculator\obj\Debug\net6.0\01.Calculator.csproj.AssemblyReference.cache
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\01.Calculator\obj\Debug\net6.0\01.Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\01.Calculator\obj\Debug\net6.0\01.Calculator.AssemblyInfoInputs.cache
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\01.Calculator\obj\Debug\net6.0\01.Calculator.AssemblyInfo.cs
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\01.Calculator\obj\Debug\net6.0\01.Calculator.csproj.CoreCompileInputs.cache
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\01.Calculator\obj\Debug\net6.0\01.Calculator.dll
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\01.Calculator\obj\Debug\net6.0\refint\01.Calculator.dll
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\01.Calculator\obj\Debug\net6.0\01.Calculator.pdb
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\01.Calculator\obj\Debug\net6.0\01.Calculator.genruntimeconfig.cache
+C:\Users\PR1ME\source\Advanced\FunctionalProgramming\01.Calculator\obj\Debug\net6.0\ref\01.Calculator.dll
