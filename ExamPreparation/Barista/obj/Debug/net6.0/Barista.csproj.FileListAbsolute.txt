@@ -1,0 +1,15 @@
+C:\Users\PR1ME\source\Advanced\Barista\bin\Debug\net6.0\Barista.exe
+C:\Users\PR1ME\source\Advanced\Barista\bin\Debug\net6.0\Barista.deps.json
+C:\Users\PR1ME\source\Advanced\Barista\bin\Debug\net6.0\Barista.runtimeconfig.json
+C:\Users\PR1ME\source\Advanced\Barista\bin\Debug\net6.0\Barista.dll
+C:\Users\PR1ME\source\Advanced\Barista\bin\Debug\net6.0\Barista.pdb
+C:\Users\PR1ME\source\Advanced\Barista\obj\Debug\net6.0\Barista.csproj.AssemblyReference.cache
+C:\Users\PR1ME\source\Advanced\Barista\obj\Debug\net6.0\Barista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PR1ME\source\Advanced\Barista\obj\Debug\net6.0\Barista.AssemblyInfoInputs.cache
+C:\Users\PR1ME\source\Advanced\Barista\obj\Debug\net6.0\Barista.AssemblyInfo.cs
+C:\Users\PR1ME\source\Advanced\Barista\obj\Debug\net6.0\Barista.csproj.CoreCompileInputs.cache
+C:\Users\PR1ME\source\Advanced\Barista\obj\Debug\net6.0\Barista.dll
+C:\Users\PR1ME\source\Advanced\Barista\obj\Debug\net6.0\refint\Barista.dll
+C:\Users\PR1ME\source\Advanced\Barista\obj\Debug\net6.0\Barista.pdb
+C:\Users\PR1ME\source\Advanced\Barista\obj\Debug\net6.0\Barista.genruntimeconfig.cache
+C:\Users\PR1ME\source\Advanced\Barista\obj\Debug\net6.0\ref\Barista.dll
