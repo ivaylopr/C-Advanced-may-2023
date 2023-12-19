@@ -1,0 +1,5 @@
+C:\Users\PR1ME\source\Advanced\DefinitingClasses\01.Car\obj\Debug\net6.0\01.Car.csproj.AssemblyReference.cache
+C:\Users\PR1ME\source\Advanced\DefinitingClasses\01.Car\obj\Debug\net6.0\01.Car.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PR1ME\source\Advanced\DefinitingClasses\01.Car\obj\Debug\net6.0\01.Car.AssemblyInfoInputs.cache
+C:\Users\PR1ME\source\Advanced\DefinitingClasses\01.Car\obj\Debug\net6.0\01.Car.AssemblyInfo.cs
+C:\Users\PR1ME\source\Advanced\DefinitingClasses\01.Car\obj\Debug\net6.0\01.Car.csproj.CoreCompileInputs.cache
