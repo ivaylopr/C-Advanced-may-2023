@@ -1,0 +1,15 @@
+C:\Users\PR1ME\source\Advanced\Multidimensional Arrays\02.SumMatrixColums\bin\Debug\net6.0\02.SumMatrixColums.exe
+C:\Users\PR1ME\source\Advanced\Multidimensional Arrays\02.SumMatrixColums\bin\Debug\net6.0\02.SumMatrixColums.deps.json
+C:\Users\PR1ME\source\Advanced\Multidimensional Arrays\02.SumMatrixColums\bin\Debug\net6.0\02.SumMatrixColums.runtimeconfig.json
+C:\Users\PR1ME\source\Advanced\Multidimensional Arrays\02.SumMatrixColums\bin\Debug\net6.0\02.SumMatrixColums.dll
+C:\Users\PR1ME\source\Advanced\Multidimensional Arrays\02.SumMatrixColums\bin\Debug\net6.0\02.SumMatrixColums.pdb
+C:\Users\PR1ME\source\Advanced\Multidimensional Arrays\02.SumMatrixColums\obj\Debug\net6.0\02.SumMatrixColums.csproj.AssemblyReference.cache
+C:\Users\PR1ME\source\Advanced\Multidimensional Arrays\02.SumMatrixColums\obj\Debug\net6.0\02.SumMatrixColums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PR1ME\source\Advanced\Multidimensional Arrays\02.SumMatrixColums\obj\Debug\net6.0\02.SumMatrixColums.AssemblyInfoInputs.cache
+C:\Users\PR1ME\source\Advanced\Multidimensional Arrays\02.SumMatrixColums\obj\Debug\net6.0\02.SumMatrixColums.AssemblyInfo.cs
+C:\Users\PR1ME\source\Advanced\Multidimensional Arrays\02.SumMatrixColums\obj\Debug\net6.0\02.SumMatrixColums.csproj.CoreCompileInputs.cache
+C:\Users\PR1ME\source\Advanced\Multidimensional Arrays\02.SumMatrixColums\obj\Debug\net6.0\02.SumMatrixColums.dll
+C:\Users\PR1ME\source\Advanced\Multidimensional Arrays\02.SumMatrixColums\obj\Debug\net6.0\refint\02.SumMatrixColums.dll
+C:\Users\PR1ME\source\Advanced\Multidimensional Arrays\02.SumMatrixColums\obj\Debug\net6.0\02.SumMatrixColums.pdb
+C:\Users\PR1ME\source\Advanced\Multidimensional Arrays\02.SumMatrixColums\obj\Debug\net6.0\02.SumMatrixColums.genruntimeconfig.cache
+C:\Users\PR1ME\source\Advanced\Multidimensional Arrays\02.SumMatrixColums\obj\Debug\net6.0\ref\02.SumMatrixColums.dll

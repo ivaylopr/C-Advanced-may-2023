@@ -1,0 +1,15 @@
+C:\Users\PR1ME\source\Advanced\Multidimensional Arrays\05.MaximumSum\bin\Debug\net6.0\05.MaximumSum.exe
+C:\Users\PR1ME\source\Advanced\Multidimensional Arrays\05.MaximumSum\bin\Debug\net6.0\05.MaximumSum.deps.json
+C:\Users\PR1ME\source\Advanced\Multidimensional Arrays\05.MaximumSum\bin\Debug\net6.0\05.MaximumSum.runtimeconfig.json
+C:\Users\PR1ME\source\Advanced\Multidimensional Arrays\05.MaximumSum\bin\Debug\net6.0\05.MaximumSum.dll
+C:\Users\PR1ME\source\Advanced\Multidimensional Arrays\05.MaximumSum\bin\Debug\net6.0\05.MaximumSum.pdb
+C:\Users\PR1ME\source\Advanced\Multidimensional Arrays\05.MaximumSum\obj\Debug\net6.0\05.MaximumSum.csproj.AssemblyReference.cache
+C:\Users\PR1ME\source\Advanced\Multidimensional Arrays\05.MaximumSum\obj\Debug\net6.0\05.MaximumSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PR1ME\source\Advanced\Multidimensional Arrays\05.MaximumSum\obj\Debug\net6.0\05.MaximumSum.AssemblyInfoInputs.cache
+C:\Users\PR1ME\source\Advanced\Multidimensional Arrays\05.MaximumSum\obj\Debug\net6.0\05.MaximumSum.AssemblyInfo.cs
+C:\Users\PR1ME\source\Advanced\Multidimensional Arrays\05.MaximumSum\obj\Debug\net6.0\05.MaximumSum.csproj.CoreCompileInputs.cache
+C:\Users\PR1ME\source\Advanced\Multidimensional Arrays\05.MaximumSum\obj\Debug\net6.0\05.MaximumSum.dll
+C:\Users\PR1ME\source\Advanced\Multidimensional Arrays\05.MaximumSum\obj\Debug\net6.0\refint\05.MaximumSum.dll
+C:\Users\PR1ME\source\Advanced\Multidimensional Arrays\05.MaximumSum\obj\Debug\net6.0\05.MaximumSum.pdb
+C:\Users\PR1ME\source\Advanced\Multidimensional Arrays\05.MaximumSum\obj\Debug\net6.0\05.MaximumSum.genruntimeconfig.cache
+C:\Users\PR1ME\source\Advanced\Multidimensional Arrays\05.MaximumSum\obj\Debug\net6.0\ref\05.MaximumSum.dll

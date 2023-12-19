@@ -1,0 +1,15 @@
+C:\Users\PR1ME\source\Advanced\Multidimensional Arrays\04.MatrixShuffling\obj\Debug\net6.0\04.MatrixShuffling.csproj.AssemblyReference.cache
+C:\Users\PR1ME\source\Advanced\Multidimensional Arrays\04.MatrixShuffling\obj\Debug\net6.0\04.MatrixShuffling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PR1ME\source\Advanced\Multidimensional Arrays\04.MatrixShuffling\obj\Debug\net6.0\04.MatrixShuffling.AssemblyInfoInputs.cache
+C:\Users\PR1ME\source\Advanced\Multidimensional Arrays\04.MatrixShuffling\obj\Debug\net6.0\04.MatrixShuffling.AssemblyInfo.cs
+C:\Users\PR1ME\source\Advanced\Multidimensional Arrays\04.MatrixShuffling\obj\Debug\net6.0\04.MatrixShuffling.csproj.CoreCompileInputs.cache
+C:\Users\PR1ME\source\Advanced\Multidimensional Arrays\04.MatrixShuffling\bin\Debug\net6.0\04.MatrixShuffling.exe
+C:\Users\PR1ME\source\Advanced\Multidimensional Arrays\04.MatrixShuffling\bin\Debug\net6.0\04.MatrixShuffling.deps.json
+C:\Users\PR1ME\source\Advanced\Multidimensional Arrays\04.MatrixShuffling\bin\Debug\net6.0\04.MatrixShuffling.runtimeconfig.json
+C:\Users\PR1ME\source\Advanced\Multidimensional Arrays\04.MatrixShuffling\bin\Debug\net6.0\04.MatrixShuffling.dll
+C:\Users\PR1ME\source\Advanced\Multidimensional Arrays\04.MatrixShuffling\bin\Debug\net6.0\04.MatrixShuffling.pdb
+C:\Users\PR1ME\source\Advanced\Multidimensional Arrays\04.MatrixShuffling\obj\Debug\net6.0\04.MatrixShuffling.dll
+C:\Users\PR1ME\source\Advanced\Multidimensional Arrays\04.MatrixShuffling\obj\Debug\net6.0\refint\04.MatrixShuffling.dll
+C:\Users\PR1ME\source\Advanced\Multidimensional Arrays\04.MatrixShuffling\obj\Debug\net6.0\04.MatrixShuffling.pdb
+C:\Users\PR1ME\source\Advanced\Multidimensional Arrays\04.MatrixShuffling\obj\Debug\net6.0\04.MatrixShuffling.genruntimeconfig.cache
+C:\Users\PR1ME\source\Advanced\Multidimensional Arrays\04.MatrixShuffling\obj\Debug\net6.0\ref\04.MatrixShuffling.dll

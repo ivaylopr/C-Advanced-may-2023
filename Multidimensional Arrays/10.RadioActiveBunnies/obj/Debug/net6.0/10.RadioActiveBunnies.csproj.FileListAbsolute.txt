@@ -1,0 +1,15 @@
+C:\Users\PR1ME\source\Advanced\Multidimensional Arrays\10.RadioActiveBunnies\bin\Debug\net6.0\10.RadioActiveBunnies.exe
+C:\Users\PR1ME\source\Advanced\Multidimensional Arrays\10.RadioActiveBunnies\bin\Debug\net6.0\10.RadioActiveBunnies.deps.json
+C:\Users\PR1ME\source\Advanced\Multidimensional Arrays\10.RadioActiveBunnies\bin\Debug\net6.0\10.RadioActiveBunnies.runtimeconfig.json
+C:\Users\PR1ME\source\Advanced\Multidimensional Arrays\10.RadioActiveBunnies\bin\Debug\net6.0\10.RadioActiveBunnies.dll
+C:\Users\PR1ME\source\Advanced\Multidimensional Arrays\10.RadioActiveBunnies\bin\Debug\net6.0\10.RadioActiveBunnies.pdb
+C:\Users\PR1ME\source\Advanced\Multidimensional Arrays\10.RadioActiveBunnies\obj\Debug\net6.0\10.RadioActiveBunnies.csproj.AssemblyReference.cache
+C:\Users\PR1ME\source\Advanced\Multidimensional Arrays\10.RadioActiveBunnies\obj\Debug\net6.0\10.RadioActiveBunnies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PR1ME\source\Advanced\Multidimensional Arrays\10.RadioActiveBunnies\obj\Debug\net6.0\10.RadioActiveBunnies.AssemblyInfoInputs.cache
+C:\Users\PR1ME\source\Advanced\Multidimensional Arrays\10.RadioActiveBunnies\obj\Debug\net6.0\10.RadioActiveBunnies.AssemblyInfo.cs
+C:\Users\PR1ME\source\Advanced\Multidimensional Arrays\10.RadioActiveBunnies\obj\Debug\net6.0\10.RadioActiveBunnies.csproj.CoreCompileInputs.cache
+C:\Users\PR1ME\source\Advanced\Multidimensional Arrays\10.RadioActiveBunnies\obj\Debug\net6.0\10.RadioActiveBunnies.dll
+C:\Users\PR1ME\source\Advanced\Multidimensional Arrays\10.RadioActiveBunnies\obj\Debug\net6.0\refint\10.RadioActiveBunnies.dll
+C:\Users\PR1ME\source\Advanced\Multidimensional Arrays\10.RadioActiveBunnies\obj\Debug\net6.0\10.RadioActiveBunnies.pdb
+C:\Users\PR1ME\source\Advanced\Multidimensional Arrays\10.RadioActiveBunnies\obj\Debug\net6.0\10.RadioActiveBunnies.genruntimeconfig.cache
+C:\Users\PR1ME\source\Advanced\Multidimensional Arrays\10.RadioActiveBunnies\obj\Debug\net6.0\ref\10.RadioActiveBunnies.dll
