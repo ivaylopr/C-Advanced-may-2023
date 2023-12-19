@@ -1,0 +1,15 @@
+C:\Users\PR1ME\source\Advanced\Stack and Queques\09.SimpleTextEditor\bin\Debug\net6.0\09.SimpleTextEditor.exe
+C:\Users\PR1ME\source\Advanced\Stack and Queques\09.SimpleTextEditor\bin\Debug\net6.0\09.SimpleTextEditor.deps.json
+C:\Users\PR1ME\source\Advanced\Stack and Queques\09.SimpleTextEditor\bin\Debug\net6.0\09.SimpleTextEditor.runtimeconfig.json
+C:\Users\PR1ME\source\Advanced\Stack and Queques\09.SimpleTextEditor\bin\Debug\net6.0\09.SimpleTextEditor.dll
+C:\Users\PR1ME\source\Advanced\Stack and Queques\09.SimpleTextEditor\bin\Debug\net6.0\09.SimpleTextEditor.pdb
+C:\Users\PR1ME\source\Advanced\Stack and Queques\09.SimpleTextEditor\obj\Debug\net6.0\09.SimpleTextEditor.csproj.AssemblyReference.cache
+C:\Users\PR1ME\source\Advanced\Stack and Queques\09.SimpleTextEditor\obj\Debug\net6.0\09.SimpleTextEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PR1ME\source\Advanced\Stack and Queques\09.SimpleTextEditor\obj\Debug\net6.0\09.SimpleTextEditor.AssemblyInfoInputs.cache
+C:\Users\PR1ME\source\Advanced\Stack and Queques\09.SimpleTextEditor\obj\Debug\net6.0\09.SimpleTextEditor.AssemblyInfo.cs
+C:\Users\PR1ME\source\Advanced\Stack and Queques\09.SimpleTextEditor\obj\Debug\net6.0\09.SimpleTextEditor.csproj.CoreCompileInputs.cache
+C:\Users\PR1ME\source\Advanced\Stack and Queques\09.SimpleTextEditor\obj\Debug\net6.0\09.SimpleTextEditor.dll
+C:\Users\PR1ME\source\Advanced\Stack and Queques\09.SimpleTextEditor\obj\Debug\net6.0\refint\09.SimpleTextEditor.dll
+C:\Users\PR1ME\source\Advanced\Stack and Queques\09.SimpleTextEditor\obj\Debug\net6.0\09.SimpleTextEditor.pdb
+C:\Users\PR1ME\source\Advanced\Stack and Queques\09.SimpleTextEditor\obj\Debug\net6.0\09.SimpleTextEditor.genruntimeconfig.cache
+C:\Users\PR1ME\source\Advanced\Stack and Queques\09.SimpleTextEditor\obj\Debug\net6.0\ref\09.SimpleTextEditor.dll

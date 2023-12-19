@@ -1,0 +1,15 @@
+C:\Users\PR1ME\source\Advanced\Stack and Queques\Staack Sum\bin\Debug\net6.0\Staack Sum.exe
+C:\Users\PR1ME\source\Advanced\Stack and Queques\Staack Sum\bin\Debug\net6.0\Staack Sum.deps.json
+C:\Users\PR1ME\source\Advanced\Stack and Queques\Staack Sum\bin\Debug\net6.0\Staack Sum.runtimeconfig.json
+C:\Users\PR1ME\source\Advanced\Stack and Queques\Staack Sum\bin\Debug\net6.0\Staack Sum.dll
+C:\Users\PR1ME\source\Advanced\Stack and Queques\Staack Sum\bin\Debug\net6.0\Staack Sum.pdb
+C:\Users\PR1ME\source\Advanced\Stack and Queques\Staack Sum\obj\Debug\net6.0\Staack Sum.csproj.AssemblyReference.cache
+C:\Users\PR1ME\source\Advanced\Stack and Queques\Staack Sum\obj\Debug\net6.0\Staack Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PR1ME\source\Advanced\Stack and Queques\Staack Sum\obj\Debug\net6.0\Staack Sum.AssemblyInfoInputs.cache
+C:\Users\PR1ME\source\Advanced\Stack and Queques\Staack Sum\obj\Debug\net6.0\Staack Sum.AssemblyInfo.cs
+C:\Users\PR1ME\source\Advanced\Stack and Queques\Staack Sum\obj\Debug\net6.0\Staack Sum.csproj.CoreCompileInputs.cache
+C:\Users\PR1ME\source\Advanced\Stack and Queques\Staack Sum\obj\Debug\net6.0\Staack Sum.dll
+C:\Users\PR1ME\source\Advanced\Stack and Queques\Staack Sum\obj\Debug\net6.0\refint\Staack Sum.dll
+C:\Users\PR1ME\source\Advanced\Stack and Queques\Staack Sum\obj\Debug\net6.0\Staack Sum.pdb
+C:\Users\PR1ME\source\Advanced\Stack and Queques\Staack Sum\obj\Debug\net6.0\Staack Sum.genruntimeconfig.cache
+C:\Users\PR1ME\source\Advanced\Stack and Queques\Staack Sum\obj\Debug\net6.0\ref\Staack Sum.dll

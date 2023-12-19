@@ -1,0 +1,15 @@
+C:\Users\PR1ME\source\Advanced\Stack and Queques\Hot potatoe\bin\Debug\net6.0\Hot potatoe.exe
+C:\Users\PR1ME\source\Advanced\Stack and Queques\Hot potatoe\bin\Debug\net6.0\Hot potatoe.deps.json
+C:\Users\PR1ME\source\Advanced\Stack and Queques\Hot potatoe\bin\Debug\net6.0\Hot potatoe.runtimeconfig.json
+C:\Users\PR1ME\source\Advanced\Stack and Queques\Hot potatoe\bin\Debug\net6.0\Hot potatoe.dll
+C:\Users\PR1ME\source\Advanced\Stack and Queques\Hot potatoe\bin\Debug\net6.0\Hot potatoe.pdb
+C:\Users\PR1ME\source\Advanced\Stack and Queques\Hot potatoe\obj\Debug\net6.0\Hot potatoe.csproj.AssemblyReference.cache
+C:\Users\PR1ME\source\Advanced\Stack and Queques\Hot potatoe\obj\Debug\net6.0\Hot potatoe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PR1ME\source\Advanced\Stack and Queques\Hot potatoe\obj\Debug\net6.0\Hot potatoe.AssemblyInfoInputs.cache
+C:\Users\PR1ME\source\Advanced\Stack and Queques\Hot potatoe\obj\Debug\net6.0\Hot potatoe.AssemblyInfo.cs
+C:\Users\PR1ME\source\Advanced\Stack and Queques\Hot potatoe\obj\Debug\net6.0\Hot potatoe.csproj.CoreCompileInputs.cache
+C:\Users\PR1ME\source\Advanced\Stack and Queques\Hot potatoe\obj\Debug\net6.0\Hot potatoe.dll
+C:\Users\PR1ME\source\Advanced\Stack and Queques\Hot potatoe\obj\Debug\net6.0\refint\Hot potatoe.dll
+C:\Users\PR1ME\source\Advanced\Stack and Queques\Hot potatoe\obj\Debug\net6.0\Hot potatoe.pdb
+C:\Users\PR1ME\source\Advanced\Stack and Queques\Hot potatoe\obj\Debug\net6.0\Hot potatoe.genruntimeconfig.cache
+C:\Users\PR1ME\source\Advanced\Stack and Queques\Hot potatoe\obj\Debug\net6.0\ref\Hot potatoe.dll

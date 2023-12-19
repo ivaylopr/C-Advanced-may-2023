@@ -1,0 +1,15 @@
+C:\Users\PR1ME\source\Advanced\Stack and Queques\02BasicQueueOperations\bin\Debug\net6.0\02BasicQueueOperations.exe
+C:\Users\PR1ME\source\Advanced\Stack and Queques\02BasicQueueOperations\bin\Debug\net6.0\02BasicQueueOperations.deps.json
+C:\Users\PR1ME\source\Advanced\Stack and Queques\02BasicQueueOperations\bin\Debug\net6.0\02BasicQueueOperations.runtimeconfig.json
+C:\Users\PR1ME\source\Advanced\Stack and Queques\02BasicQueueOperations\bin\Debug\net6.0\02BasicQueueOperations.dll
+C:\Users\PR1ME\source\Advanced\Stack and Queques\02BasicQueueOperations\bin\Debug\net6.0\02BasicQueueOperations.pdb
+C:\Users\PR1ME\source\Advanced\Stack and Queques\02BasicQueueOperations\obj\Debug\net6.0\02BasicQueueOperations.csproj.AssemblyReference.cache
+C:\Users\PR1ME\source\Advanced\Stack and Queques\02BasicQueueOperations\obj\Debug\net6.0\02BasicQueueOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PR1ME\source\Advanced\Stack and Queques\02BasicQueueOperations\obj\Debug\net6.0\02BasicQueueOperations.AssemblyInfoInputs.cache
+C:\Users\PR1ME\source\Advanced\Stack and Queques\02BasicQueueOperations\obj\Debug\net6.0\02BasicQueueOperations.AssemblyInfo.cs
+C:\Users\PR1ME\source\Advanced\Stack and Queques\02BasicQueueOperations\obj\Debug\net6.0\02BasicQueueOperations.csproj.CoreCompileInputs.cache
+C:\Users\PR1ME\source\Advanced\Stack and Queques\02BasicQueueOperations\obj\Debug\net6.0\02BasicQueueOperations.dll
+C:\Users\PR1ME\source\Advanced\Stack and Queques\02BasicQueueOperations\obj\Debug\net6.0\refint\02BasicQueueOperations.dll
+C:\Users\PR1ME\source\Advanced\Stack and Queques\02BasicQueueOperations\obj\Debug\net6.0\02BasicQueueOperations.pdb
+C:\Users\PR1ME\source\Advanced\Stack and Queques\02BasicQueueOperations\obj\Debug\net6.0\02BasicQueueOperations.genruntimeconfig.cache
+C:\Users\PR1ME\source\Advanced\Stack and Queques\02BasicQueueOperations\obj\Debug\net6.0\ref\02BasicQueueOperations.dll

@@ -1,0 +1,15 @@
+C:\Users\PR1ME\source\Advanced\Stack and Queques\05.FashionButique\bin\Debug\net6.0\05.FashionButique.exe
+C:\Users\PR1ME\source\Advanced\Stack and Queques\05.FashionButique\bin\Debug\net6.0\05.FashionButique.deps.json
+C:\Users\PR1ME\source\Advanced\Stack and Queques\05.FashionButique\bin\Debug\net6.0\05.FashionButique.runtimeconfig.json
+C:\Users\PR1ME\source\Advanced\Stack and Queques\05.FashionButique\bin\Debug\net6.0\05.FashionButique.dll
+C:\Users\PR1ME\source\Advanced\Stack and Queques\05.FashionButique\bin\Debug\net6.0\05.FashionButique.pdb
+C:\Users\PR1ME\source\Advanced\Stack and Queques\05.FashionButique\obj\Debug\net6.0\05.FashionButique.csproj.AssemblyReference.cache
+C:\Users\PR1ME\source\Advanced\Stack and Queques\05.FashionButique\obj\Debug\net6.0\05.FashionButique.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PR1ME\source\Advanced\Stack and Queques\05.FashionButique\obj\Debug\net6.0\05.FashionButique.AssemblyInfoInputs.cache
+C:\Users\PR1ME\source\Advanced\Stack and Queques\05.FashionButique\obj\Debug\net6.0\05.FashionButique.AssemblyInfo.cs
+C:\Users\PR1ME\source\Advanced\Stack and Queques\05.FashionButique\obj\Debug\net6.0\05.FashionButique.csproj.CoreCompileInputs.cache
+C:\Users\PR1ME\source\Advanced\Stack and Queques\05.FashionButique\obj\Debug\net6.0\05.FashionButique.dll
+C:\Users\PR1ME\source\Advanced\Stack and Queques\05.FashionButique\obj\Debug\net6.0\refint\05.FashionButique.dll
+C:\Users\PR1ME\source\Advanced\Stack and Queques\05.FashionButique\obj\Debug\net6.0\05.FashionButique.pdb
+C:\Users\PR1ME\source\Advanced\Stack and Queques\05.FashionButique\obj\Debug\net6.0\05.FashionButique.genruntimeconfig.cache
+C:\Users\PR1ME\source\Advanced\Stack and Queques\05.FashionButique\obj\Debug\net6.0\ref\05.FashionButique.dll

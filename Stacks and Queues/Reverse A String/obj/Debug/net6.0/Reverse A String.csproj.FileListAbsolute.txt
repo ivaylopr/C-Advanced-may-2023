@@ -1,0 +1,15 @@
+C:\Users\PR1ME\source\Advanced\Stack and Queques\Reverse A String\bin\Debug\net6.0\Reverse A String.exe
+C:\Users\PR1ME\source\Advanced\Stack and Queques\Reverse A String\bin\Debug\net6.0\Reverse A String.deps.json
+C:\Users\PR1ME\source\Advanced\Stack and Queques\Reverse A String\bin\Debug\net6.0\Reverse A String.runtimeconfig.json
+C:\Users\PR1ME\source\Advanced\Stack and Queques\Reverse A String\bin\Debug\net6.0\Reverse A String.dll
+C:\Users\PR1ME\source\Advanced\Stack and Queques\Reverse A String\bin\Debug\net6.0\Reverse A String.pdb
+C:\Users\PR1ME\source\Advanced\Stack and Queques\Reverse A String\obj\Debug\net6.0\Reverse A String.csproj.AssemblyReference.cache
+C:\Users\PR1ME\source\Advanced\Stack and Queques\Reverse A String\obj\Debug\net6.0\Reverse A String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PR1ME\source\Advanced\Stack and Queques\Reverse A String\obj\Debug\net6.0\Reverse A String.AssemblyInfoInputs.cache
+C:\Users\PR1ME\source\Advanced\Stack and Queques\Reverse A String\obj\Debug\net6.0\Reverse A String.AssemblyInfo.cs
+C:\Users\PR1ME\source\Advanced\Stack and Queques\Reverse A String\obj\Debug\net6.0\Reverse A String.csproj.CoreCompileInputs.cache
+C:\Users\PR1ME\source\Advanced\Stack and Queques\Reverse A String\obj\Debug\net6.0\Reverse A String.dll
+C:\Users\PR1ME\source\Advanced\Stack and Queques\Reverse A String\obj\Debug\net6.0\refint\Reverse A String.dll
+C:\Users\PR1ME\source\Advanced\Stack and Queques\Reverse A String\obj\Debug\net6.0\Reverse A String.pdb
+C:\Users\PR1ME\source\Advanced\Stack and Queques\Reverse A String\obj\Debug\net6.0\Reverse A String.genruntimeconfig.cache
+C:\Users\PR1ME\source\Advanced\Stack and Queques\Reverse A String\obj\Debug\net6.0\ref\Reverse A String.dll

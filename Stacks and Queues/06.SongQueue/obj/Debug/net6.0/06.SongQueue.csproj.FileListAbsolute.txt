@@ -1,0 +1,15 @@
+C:\Users\PR1ME\source\Advanced\Stack and Queques\06.SongQueue\bin\Debug\net6.0\06.SongQueue.exe
+C:\Users\PR1ME\source\Advanced\Stack and Queques\06.SongQueue\bin\Debug\net6.0\06.SongQueue.deps.json
+C:\Users\PR1ME\source\Advanced\Stack and Queques\06.SongQueue\bin\Debug\net6.0\06.SongQueue.runtimeconfig.json
+C:\Users\PR1ME\source\Advanced\Stack and Queques\06.SongQueue\bin\Debug\net6.0\06.SongQueue.dll
+C:\Users\PR1ME\source\Advanced\Stack and Queques\06.SongQueue\bin\Debug\net6.0\06.SongQueue.pdb
+C:\Users\PR1ME\source\Advanced\Stack and Queques\06.SongQueue\obj\Debug\net6.0\06.SongQueue.csproj.AssemblyReference.cache
+C:\Users\PR1ME\source\Advanced\Stack and Queques\06.SongQueue\obj\Debug\net6.0\06.SongQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PR1ME\source\Advanced\Stack and Queques\06.SongQueue\obj\Debug\net6.0\06.SongQueue.AssemblyInfoInputs.cache
+C:\Users\PR1ME\source\Advanced\Stack and Queques\06.SongQueue\obj\Debug\net6.0\06.SongQueue.AssemblyInfo.cs
+C:\Users\PR1ME\source\Advanced\Stack and Queques\06.SongQueue\obj\Debug\net6.0\06.SongQueue.csproj.CoreCompileInputs.cache
+C:\Users\PR1ME\source\Advanced\Stack and Queques\06.SongQueue\obj\Debug\net6.0\06.SongQueue.dll
+C:\Users\PR1ME\source\Advanced\Stack and Queques\06.SongQueue\obj\Debug\net6.0\refint\06.SongQueue.dll
+C:\Users\PR1ME\source\Advanced\Stack and Queques\06.SongQueue\obj\Debug\net6.0\06.SongQueue.pdb
+C:\Users\PR1ME\source\Advanced\Stack and Queques\06.SongQueue\obj\Debug\net6.0\06.SongQueue.genruntimeconfig.cache
+C:\Users\PR1ME\source\Advanced\Stack and Queques\06.SongQueue\obj\Debug\net6.0\ref\06.SongQueue.dll

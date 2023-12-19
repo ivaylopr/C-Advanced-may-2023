@@ -1,0 +1,15 @@
+C:\Users\PR1ME\source\Advanced\Stack and Queques\03MaximumAndMinimumElement\bin\Debug\net6.0\03MaximumAndMinimumElement.exe
+C:\Users\PR1ME\source\Advanced\Stack and Queques\03MaximumAndMinimumElement\bin\Debug\net6.0\03MaximumAndMinimumElement.deps.json
+C:\Users\PR1ME\source\Advanced\Stack and Queques\03MaximumAndMinimumElement\bin\Debug\net6.0\03MaximumAndMinimumElement.runtimeconfig.json
+C:\Users\PR1ME\source\Advanced\Stack and Queques\03MaximumAndMinimumElement\bin\Debug\net6.0\03MaximumAndMinimumElement.dll
+C:\Users\PR1ME\source\Advanced\Stack and Queques\03MaximumAndMinimumElement\bin\Debug\net6.0\03MaximumAndMinimumElement.pdb
+C:\Users\PR1ME\source\Advanced\Stack and Queques\03MaximumAndMinimumElement\obj\Debug\net6.0\03MaximumAndMinimumElement.csproj.AssemblyReference.cache
+C:\Users\PR1ME\source\Advanced\Stack and Queques\03MaximumAndMinimumElement\obj\Debug\net6.0\03MaximumAndMinimumElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PR1ME\source\Advanced\Stack and Queques\03MaximumAndMinimumElement\obj\Debug\net6.0\03MaximumAndMinimumElement.AssemblyInfoInputs.cache
+C:\Users\PR1ME\source\Advanced\Stack and Queques\03MaximumAndMinimumElement\obj\Debug\net6.0\03MaximumAndMinimumElement.AssemblyInfo.cs
+C:\Users\PR1ME\source\Advanced\Stack and Queques\03MaximumAndMinimumElement\obj\Debug\net6.0\03MaximumAndMinimumElement.csproj.CoreCompileInputs.cache
+C:\Users\PR1ME\source\Advanced\Stack and Queques\03MaximumAndMinimumElement\obj\Debug\net6.0\03MaximumAndMinimumElement.dll
+C:\Users\PR1ME\source\Advanced\Stack and Queques\03MaximumAndMinimumElement\obj\Debug\net6.0\refint\03MaximumAndMinimumElement.dll
+C:\Users\PR1ME\source\Advanced\Stack and Queques\03MaximumAndMinimumElement\obj\Debug\net6.0\03MaximumAndMinimumElement.pdb
+C:\Users\PR1ME\source\Advanced\Stack and Queques\03MaximumAndMinimumElement\obj\Debug\net6.0\03MaximumAndMinimumElement.genruntimeconfig.cache
+C:\Users\PR1ME\source\Advanced\Stack and Queques\03MaximumAndMinimumElement\obj\Debug\net6.0\ref\03MaximumAndMinimumElement.dll

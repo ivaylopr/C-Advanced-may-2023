@@ -1,0 +1,15 @@
+C:\Users\PR1ME\source\Advanced\Stack and Queques\04FastFood\bin\Debug\net6.0\04FastFood.exe
+C:\Users\PR1ME\source\Advanced\Stack and Queques\04FastFood\bin\Debug\net6.0\04FastFood.deps.json
+C:\Users\PR1ME\source\Advanced\Stack and Queques\04FastFood\bin\Debug\net6.0\04FastFood.runtimeconfig.json
+C:\Users\PR1ME\source\Advanced\Stack and Queques\04FastFood\bin\Debug\net6.0\04FastFood.dll
+C:\Users\PR1ME\source\Advanced\Stack and Queques\04FastFood\bin\Debug\net6.0\04FastFood.pdb
+C:\Users\PR1ME\source\Advanced\Stack and Queques\04FastFood\obj\Debug\net6.0\04FastFood.csproj.AssemblyReference.cache
+C:\Users\PR1ME\source\Advanced\Stack and Queques\04FastFood\obj\Debug\net6.0\04FastFood.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PR1ME\source\Advanced\Stack and Queques\04FastFood\obj\Debug\net6.0\04FastFood.AssemblyInfoInputs.cache
+C:\Users\PR1ME\source\Advanced\Stack and Queques\04FastFood\obj\Debug\net6.0\04FastFood.AssemblyInfo.cs
+C:\Users\PR1ME\source\Advanced\Stack and Queques\04FastFood\obj\Debug\net6.0\04FastFood.csproj.CoreCompileInputs.cache
+C:\Users\PR1ME\source\Advanced\Stack and Queques\04FastFood\obj\Debug\net6.0\04FastFood.dll
+C:\Users\PR1ME\source\Advanced\Stack and Queques\04FastFood\obj\Debug\net6.0\refint\04FastFood.dll
+C:\Users\PR1ME\source\Advanced\Stack and Queques\04FastFood\obj\Debug\net6.0\04FastFood.pdb
+C:\Users\PR1ME\source\Advanced\Stack and Queques\04FastFood\obj\Debug\net6.0\04FastFood.genruntimeconfig.cache
+C:\Users\PR1ME\source\Advanced\Stack and Queques\04FastFood\obj\Debug\net6.0\ref\04FastFood.dll
